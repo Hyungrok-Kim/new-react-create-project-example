@@ -10,19 +10,19 @@ cd [프로젝트명]
 npm start
 ```
 ## 변경 방법
-### 1. 
+### 1. Quick Start
 ```bash
 npx create-react-app [프로젝트명]
 cd [프로젝트명]
 npm start
 ```
 
-### 2
+### 2.
 ```bash
 npm init react-app [프로젝트명]
 ```
 
-### 3
+### 3.
 ```bash
 yarn create react-app [프로젝트명]
 ```
