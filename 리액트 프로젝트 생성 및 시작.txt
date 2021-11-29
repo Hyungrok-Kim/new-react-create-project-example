@@ -1,0 +1,17 @@
+npm install -g create-react-app -> create-react-app 모듈 설치
+
+create-reate-app [프로젝트명]
+
+npm start
+
+--> 이 방법이 더이상 지원하지 않게 됨 
+
+Quick Start
+npx create-react-app [프로젝트명]
+cd [프로젝트명]
+npm start
+
+또는
+
+npm init react-app [프로젝트명]
+yarn create react-app [프로젝트명]
